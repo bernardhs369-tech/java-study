@@ -32,6 +32,17 @@ A menu-driven program that calculates the area of a square or a circle, repeatin
 
 ---
 
+### 3. School System (Nested Loops)
+A console program that simulates a school report card system. It reads grades for a class of students, calculates each student's average, classifies them (Passed / Retake / Failed), and prints a class summary — including highest, lowest, and overall average.
+
+| File | Loop used |
+|---|---|
+| [`SchoolSystem.java`](./SchoolSystem.java) | `for` (nested) |
+
+**Concepts practiced:** nested loops, conditionals (`if`/`else if`/`else`), accumulators and counters, finding max/min values through comparison, `Scanner` (user input), `String.format` (decimal formatting).
+
+---
+
 <!-- New exercises will be added below as I progress -->
 
 ---
