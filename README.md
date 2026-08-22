@@ -42,6 +42,16 @@ A console program that simulates a school report card system. It reads grades fo
 **Concepts practiced:** nested loops, conditionals (`if`/`else if`/`else`), accumulators and counters, finding max/min values through comparison, `Scanner` (user input), `String.format` (decimal formatting).
 
 ---
+### 4. Password Validator (do-while)
+A console program that validates a password with a limited number of attempts. The user has 5 tries to enter the correct password before access is blocked.
+
+| File | Loop used |
+|---|---|
+| [`PasswordValidator.java`](./PasswordValidator.java) | `do-while` |
+
+**Concepts practiced:** `do-while` loops, conditionals, `break`, `Scanner` (user input), attempt/retry logic.
+
+---
 
 <!-- New exercises will be added below as I progress -->
 
